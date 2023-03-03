@@ -31,5 +31,5 @@ jobs:
       env:
          INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
       with:
-            text: Breaking news! There's success down at the data mine! :sauropod: 
+            text: :sauropod:/ There's success down at the data mine!
 
